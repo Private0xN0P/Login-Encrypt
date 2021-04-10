@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "OG7+nKab6jivPGUdYEznNk05UrU5eCuIkenUpzq1Z0Y2yIWyZ18N7urJ/6ct6EM73Dk46cNisWSF2DpYZE3QIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Instint\\source\\repos\\LoginEncrpyt\\LoginEncrpyt\\LoginEncrpyt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Instint\\.nuget\\packages\\bouncycastle\\1.8.5\\bouncycastle.1.8.5.nupkg.sha512",
+    "C:\\Users\\Instint\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",
+    "C:\\Users\\Instint\\.nuget\\packages\\k4os.compression.lz4\\1.1.11\\k4os.compression.lz4.1.1.11.nupkg.sha512",
+    "C:\\Users\\Instint\\.nuget\\packages\\k4os.compression.lz4.streams\\1.1.11\\k4os.compression.lz4.streams.1.1.11.nupkg.sha512",
+    "C:\\Users\\Instint\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
+    "C:\\Users\\Instint\\.nuget\\packages\\metromodernui\\1.4.0\\metromodernui.1.4.0.nupkg.sha512",
+    "C:\\Users\\Instint\\.nuget\\packages\\mysql.data\\8.0.23\\mysql.data.8.0.23.nupkg.sha512",
+    "C:\\Users\\Instint\\.nuget\\packages\\ssh.net\\2020.0.0-beta1\\ssh.net.2020.0.0-beta1.nupkg.sha512",
+    "C:\\Users\\Instint\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Instint\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Instint\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Instint\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
